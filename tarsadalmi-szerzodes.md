@@ -31,30 +31,54 @@ verzió: 0.0.1-beta
 
 # A Homo Politicus Hungaricus Mozgalom Társadalmi Szerződése #
 
-## 1. Olyan együttműködésre törekszünk, ami a lehető legkisebb mértékben korlátozza a felek veleszületett szabadságát. ##
+## Célok ##
 
-## 2. Elfogadjuk, hogy az állampolgárok egyenjogúsága nem szűkíthető le egy bizonyos világnézetet vallók csoportjára. ##
+### 1. Olyan együttműködésre törekszünk, ami a lehető legkisebb mértékben korlátozza a felek veleszületett szabadságát. ###
 
-### 2.1 A velünk ellentétes világnézetűeket nem legyőzni vagy meggyőzni, hanem megérteni akarjuk. ###
+## Alapelvek ##
 
-### 2.2 A cél a közös elvek meghatározása. ###
+### 2. Elfogadjuk, hogy az állampolgárok egyenjogúsága nem szűkíthető le egy bizonyos világnézetet vallók csoportjára. ###
 
-### 2.3 Olyan egyensúlyra törekszünk, amelyben úgy szerzünk érvényt jogainknak, hogy közben másokét nem sértjük meg. ###
+#### 2.1 A velünk ellentétes világnézetűeket nem legyőzni vagy meggyőzni, hanem megérteni akarjuk. ####
 
-## 3. Ez a mozgalom soha nem rendelődhet alá semmilyen magánérdeket képviselő csoportnak. ##
+#### 2.2 A cél a közös elvek meghatározása. ####
 
-### 3.1 Politikai párt ###
+#### 2.3 Olyan egyensúlyra törekszünk, amelyben úgy szerzünk érvényt jogainknak, hogy közben másokét nem sértjük meg. ####
 
-### 3.2 Vallási csoport ###
+### 3. Ez a mozgalom soha nem rendelődhet alá semmilyen magánérdeket képviselő csoportnak. ###
 
-### 3.3 Világnézeti mozgalom, amely világnézet a demokráciával ellentétes, illetve annak valamilyen szűkítő formáját hirdeti ###
+#### 3.1 Politikai párt ####
 
-### 3.4 A magyarság egy részhalmázát képviselő, származási alapon szerveződő csoport ###
+#### 3.2 Vallási csoport ####
 
-### 3.5 Üzleti érdekcsoport ###
+#### 3.3 Világnézeti mozgalom, amely világnézet a demokráciával ellentétes, illetve annak valamilyen szűkítő formáját hirdeti ####
 
-### 3.6 Egy bizonyos ízlésvilágot, életformát, kulturális hagyományt képviselő csoport ###
+#### 3.4 A magyarság egy részhalmázát képviselő, származási alapon szerveződő csoport ####
 
-### 3.7 Anyagi helyzet, képzettség alapján meghatározható csoport ###
+#### 3.5 Üzleti érdekcsoport ####
 
-### 3.8 Bizonyos fontos, de nem a társadalom alapvető működését érintő ügyek mentén szerveződő csoport ###
+#### 3.6 Egy bizonyos ízlésvilágot, életformát, kulturális hagyományt képviselő csoport ####
+
+#### 3.7 Anyagi helyzet, képzettség alapján meghatározható csoport ####
+
+#### 3.8 Bizonyos fontos, de nem a társadalom alapvető működését érintő ügyek mentén szerveződő csoport ####
+
+## Tagsággal kapcsolatos szabályok ##
+
+### 4. A tagság egyetlen feltétele jelen szerződés elfogadása. ###
+
+### 5. A tagszervezetek a szervezet egészére vonatkozó jogaikat (u.m. szavazás) képviselők által gyakorolják. ###
+
+### 5. A tagszervezetek képviselője jogosult a szerződés szövegének változtatására javaslatot tenni (*pull request*). ###
+
+### 6. Tagság megszúnése ###
+
+#### 6.1 A tagság önkéntes alapon bármikor, indoklás nélkül megszüntethető ####
+
+#### 6.2 Egy tagszervezet tagságának nem önkéntes megszüntetése ####
+
+##### 6.2.1 csak jelen szerződés megsértésével indokolható, #####
+
+##### 6.2.2 és a teljes tagság legalább 80%-ának egyetértése mellett mondható ki. #####
+
+##### 6.2.3 Erre vonatkozó javaslatot bárki tehet a Mozgalom hivatalos kommunikációs csatornáin keresztül. #####
