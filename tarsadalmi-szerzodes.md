@@ -39,4 +39,22 @@ verzió: 0.0.1-beta
 
 ### 2.2 A cél a közös elvek meghatározása. ###
 
-### 2.3 Olyan egyensúlyra törekszünk, amelyben úgy élhetünk jogainkkal, hogy közben nem sértjük meg másokéit. ###
+### 2.3 Olyan egyensúlyra törekszünk, amelyben úgy szerzünk érvényt jogainknak, hogy közben másokét nem sértjük meg. ###
+
+## 3. Ez a mozgalom soha nem rendelődhet alá semmilyen magánérdeket képviselő csoportnak. ##
+
+### 3.1 Politikai párt ###
+
+### 3.2 Vallási csoport ###
+
+### 3.3 Világnézeti mozgalom, amely világnézet a demokráciával ellentétes, illetve annak valamilyen szűkítő formáját hirdeti ###
+
+### 3.4 A magyarság egy részhalmázát képviselő, származási alapon szerveződő csoport ###
+
+### 3.5 Üzleti érdekcsoport ###
+
+### 3.6 Egy bizonyos ízlésvilágot, életformát, kulturális hagyományt képviselő csoport ###
+
+### 3.7 Anyagi helyzet, képzettség alapján meghatározható csoport ###
+
+### 3.8 Bizonyos fontos, de nem a társadalom alapvető működését érintő ügyek mentén szerveződő csoport ###
