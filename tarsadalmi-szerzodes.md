@@ -67,9 +67,7 @@ verzió: 0.0.1-beta
 
 ### 4. A tagság egyetlen feltétele jelen szerződés elfogadása. ###
 
-### 5. A tagszervezetek a szervezet egészére vonatkozó jogaikat (u.m. szavazás) képviselők által gyakorolják. ###
-
-### 5. A tagszervezetek képviselője jogosult a szerződés szövegének változtatására javaslatot tenni (*pull request*). ###
+### 5. A tagszervezetek jogosultak a szerződés szövegének változtatására javaslatot tenni (*pull request*). ###
 
 ### 6. Tagság megszúnése ###
 
@@ -79,6 +77,20 @@ verzió: 0.0.1-beta
 
 ##### 6.2.1 csak jelen szerződés megsértésével indokolható, #####
 
-##### 6.2.2 és a teljes tagság legalább 80%-ának egyetértése mellett mondható ki. #####
+##### 6.2.2 és szavazás után, az összesített taglétszám (az összes tagszervezet összes tagja) legalább 80%-ának egyetértése mellett mondható ki. #####
 
 ##### 6.2.3 Erre vonatkozó javaslatot bárki tehet a Mozgalom hivatalos kommunikációs csatornáin keresztül. #####
+
+## Döntéshozatal módja ##
+
+### 7. A közösségi döntéshozatal szavazás útján történik, ###
+
+#### 7.1 az egyes tagszervezetek szavazási eredményeinek összesítése által. ####
+
+#### 7.2 A tagszervezetek a szavazást saját maguk szervezik meg és bonyolítják le, ####
+
+#### 7.3 saját szavazásuk eredményét a Mozgalom által publikált internetes (Google) űrlapon küldik be, a szavazati arányokkal együtt. ####
+
+#### 7.4 A beküldés után a tagszervezet megerősítő emailt kap, amely tartalmazza a beküldött részeredményt. ####
+
+#### 7.5 Az összesített eredmények a Mozgalom által kerülnek publikálásra nem szerkeszthető (Google) táblázat formájában. ####
