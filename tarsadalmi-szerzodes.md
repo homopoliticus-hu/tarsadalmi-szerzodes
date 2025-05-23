@@ -69,7 +69,7 @@ verzió: 0.0.1-beta
 
 ### 5. A tagszervezetek jogosultak a szerződés szövegének változtatására javaslatot tenni (*pull request*). ###
 
-### 6. Tagság megszúnése ###
+### 6. Tagság megszűnése ###
 
 #### 6.1 A tagság önkéntes alapon bármikor, indoklás nélkül megszüntethető ####
 
@@ -89,8 +89,8 @@ verzió: 0.0.1-beta
 
 #### 7.2 A tagszervezetek a szavazást saját maguk szervezik meg és bonyolítják le, ####
 
-#### 7.3 saját szavazásuk eredményét a Mozgalom által publikált internetes (Google) űrlapon küldik be, a szavazati arányokkal együtt. ####
+#### 7.3 saját szavazásuk eredményét a Mozgalom által publikált internetes űrlapon küldik be, a szavazati arányokkal együtt. ####
 
 #### 7.4 A beküldés után a tagszervezet megerősítő emailt kap, amely tartalmazza a beküldött részeredményt. ####
 
-#### 7.5 Az összesített eredmények a Mozgalom által kerülnek publikálásra nem szerkeszthető (Google) táblázat formájában. ####
+#### 7.5 Az összesített eredmények a Mozgalom által kerülnek publikálásra nem szerkeszthető táblázat formájában. ####
